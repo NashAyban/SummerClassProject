@@ -1,0 +1,143 @@
+D:\VISUAL STUDIO\source\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.exe
+D:\VISUAL STUDIO\source\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.deps.json
+D:\VISUAL STUDIO\source\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.runtimeconfig.json
+D:\VISUAL STUDIO\source\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.dll
+D:\VISUAL STUDIO\source\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.pdb
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.register.resources
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.csproj.GenerateResource.cache
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.AssemblyInfo.cs
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.dll
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\refint\finalProject.dll
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.pdb
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.genruntimeconfig.cache
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\ref\finalProject.dll
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.LoginForm.resources
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.DashboardForm.resources
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.CreateProjectForm.resources
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.CalendarForm.resources
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.projectList.resources
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.addTasks.resources
+D:\VISUAL STUDIO\source\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.ProgressForm.resources
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.exe
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.deps.json
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.runtimeconfig.json
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.dll
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.pdb
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.addTasks.resources
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.CalendarForm.resources
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.CreateProjectForm.resources
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.DashboardForm.resources
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.LoginForm.resources
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.ProgressForm.resources
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.projectList.resources
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.Properties.Resources.resources
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.register.resources
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.csproj.GenerateResource.cache
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.AssemblyInfoInputs.cache
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.AssemblyInfo.cs
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.dll
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\refint\finalProject.dll
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.pdb
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.genruntimeconfig.cache
+C:\Users\Jyan Christian\Downloads\finalProject\finalProject\finalProject\obj\Debug\net8.0-windows\ref\finalProject.dll
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.exe
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.deps.json
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.runtimeconfig.json
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.dll
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.pdb
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.addTasks.resources
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.CalendarForm.resources
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.CreateProjectForm.resources
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.DashboardForm.resources
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.LoginForm.resources
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.ProgressForm.resources
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.projectList.resources
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.Properties.Resources.resources
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.register.resources
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.csproj.GenerateResource.cache
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.AssemblyInfoInputs.cache
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.AssemblyInfo.cs
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.dll
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\refint\finalProject.dll
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.pdb
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.genruntimeconfig.cache
+C:\Users\emman\Downloads\finaldesign\finalProject(may design pero di pa maganda)\finalProject\finalProject\obj\Debug\net8.0-windows\ref\finalProject.dll
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.dll
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\refint\finalProject.dll
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.pdb
+C:\Users\ubana\source\repos\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.exe
+C:\Users\ubana\source\repos\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.deps.json
+C:\Users\ubana\source\repos\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.runtimeconfig.json
+C:\Users\ubana\source\repos\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.dll
+C:\Users\ubana\source\repos\finalProject\finalProject\bin\Debug\net8.0-windows\finalProject.pdb
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.addTasks.resources
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.CalendarForm.resources
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.CreateProjectForm.resources
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.DashboardForm.resources
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.LoginForm.resources
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.ProgressForm.resources
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.projectList.resources
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.Properties.Resources.resources
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.register.resources
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.csproj.GenerateResource.cache
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.AssemblyInfoInputs.cache
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.AssemblyInfo.cs
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\finalProject.genruntimeconfig.cache
+C:\Users\ubana\source\repos\finalProject\finalProject\obj\Debug\net8.0-windows\ref\finalProject.dll
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.dll
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\refint\finalProject.dll
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.pdb
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\bin\Debug\net8.0-windows\finalProject.exe
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\bin\Debug\net8.0-windows\finalProject.deps.json
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\bin\Debug\net8.0-windows\finalProject.runtimeconfig.json
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\bin\Debug\net8.0-windows\finalProject.dll
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\bin\Debug\net8.0-windows\finalProject.pdb
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.addTasks.resources
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.CalendarForm.resources
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.CreateProjectForm.resources
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.DashboardForm.resources
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.LoginForm.resources
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.ProgressForm.resources
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.projectList.resources
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.Properties.Resources.resources
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.register.resources
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.csproj.GenerateResource.cache
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.AssemblyInfo.cs
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.genruntimeconfig.cache
+D:\VISUAL STUDIO\source\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\ref\finalProject.dll
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\bin\Debug\net8.0-windows\finalProject.exe
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\bin\Debug\net8.0-windows\finalProject.deps.json
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\bin\Debug\net8.0-windows\finalProject.runtimeconfig.json
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\bin\Debug\net8.0-windows\finalProject.dll
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\bin\Debug\net8.0-windows\finalProject.pdb
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.addTasks.resources
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.CalendarForm.resources
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.CreateProjectForm.resources
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.DashboardForm.resources
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.LoginForm.resources
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.ProgressForm.resources
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.projectList.resources
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.Properties.Resources.resources
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.register.resources
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.csproj.GenerateResource.cache
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.AssemblyInfo.cs
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.dll
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\refint\finalProject.dll
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.pdb
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\finalProject.genruntimeconfig.cache
+D:\VISUAL STUDIO\source\FINALPROJECTwithCOMMENTS\finalProject v.Noe\finalProject\obj\Debug\net8.0-windows\ref\finalProject.dll
